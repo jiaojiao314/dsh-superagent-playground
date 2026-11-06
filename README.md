@@ -2,6 +2,6 @@
 
 ## Usage
 
-This repository is a sandbox for testing the dsh-superagent prototype. It contains no application code; use its issues and pull requests to exercise the agent end to end.
+本仓库是用于测试 dsh-superagent 原型的沙盒，不包含应用代码；其中的 Issue 和 Pull Request 用于端到端验证 agent 的工作流程。
 
-To run it locally, clone the [dsh-superagent prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) and follow the setup steps in its `SETUP.md`.
+本地运行：克隆 [dsh-superagent 原型](https://github.com/deepseek-ai/dsh-superagent-prototype)，并按照其 `SETUP.md` 完成安装与启动。
